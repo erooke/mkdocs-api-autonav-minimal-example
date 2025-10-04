@@ -1,0 +1,6 @@
+site_name: My Docs
+
+plugins:
+  - mkdocstrings
+  - api-autonav:
+      modules: ['src/gamma']
